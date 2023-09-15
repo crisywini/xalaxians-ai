@@ -12,3 +12,4 @@ conda install -n xalaxians_env ipykernel --update-deps --force-reinstall
 transformers
 conda install pytorch
 PyPDF2
+conda install -c anaconda scipy
