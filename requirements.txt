@@ -14,6 +14,6 @@ conda install -n xalaxians_env ipykernel --update-deps --force-reinstall
 conda install -c conda-forge transformers
 conda install pytorch
 conda install -c conda-forge pypdf2
-conda install -c anaconda scipy}
+conda install -c anaconda scipy
 conda install accelerate -U
 conda install tokenizers
