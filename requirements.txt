@@ -17,3 +17,5 @@ conda install -c conda-forge pypdf2
 conda install -c anaconda scipy
 conda install accelerate -U
 conda install tokenizers
+conda install -c plotly plotly
+
